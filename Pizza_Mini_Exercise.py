@@ -41,3 +41,10 @@ elif extra_cheese != 'N':  # Check for invalid input
 
 # Print the final bill after all inputs
 print(f"Your Final Bill is {bill} Rs.")
+
+#Output :
+# What is the Size Of Pizza You Want (S, M, L)? M
+# Medium Pizza Price is 200 Rs.
+# Do you want Pepperoni (Y/N)? Y
+# Do you want Extra Cheese (Y/N)? N
+# Your Final Bill is 250 Rs.
