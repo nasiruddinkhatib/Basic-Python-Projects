@@ -1,3 +1,26 @@
+"""
+WORKFLOW OF PROJECT:
+1- Input from user(Rock, paper, scissor)
+2- Computer choice (Computer will choose randomly not conditionally)
+3- Result print
+
+Cases:
+A- Rock
+Rock - Rock = tie
+Rock - Paper = Paper win
+Rock - scissor = Rock win
+
+B- Paper
+Paper - Paper = tie
+Paper - Rock = Paper win
+Paper - Scissor = Scissor win
+
+C- Scissor
+Scissor - Scissor = tie
+Scissor - Rock = Rock win
+Scissor - Paper = Scissor win
+
+"""
 import random
 item_list = ["Rock", "Paper", "Scissor"]
 
