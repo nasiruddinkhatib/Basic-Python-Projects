@@ -1,5 +1,5 @@
-# Initialize the bill to 0
-bill = 0
+#********************************PIZZA ORDERING*******************************************
+bill = 0   # # Initialize the bill to 0
 # Case-Insensitive Input: .strip().upper() ensures the program accepts inputs like " s ", "M", or "l".
 size = input("What is the Size Of Pizza You Want (S, M, L)? ").strip().upper()
 # Determine the cost based on the pizza size
